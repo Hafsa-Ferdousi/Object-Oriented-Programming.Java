@@ -1,0 +1,4 @@
+Sum: 5050
+Average: 50.5
+Maximum: 100
+Minimum: 1
