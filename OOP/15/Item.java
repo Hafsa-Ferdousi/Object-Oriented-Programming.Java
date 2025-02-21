@@ -1,9 +1,6 @@
 package librarymanagementsytem;
 
-/**
- *
- * @author Asus
- */
+
 public class Item {
   private String title;
   private String authour;
